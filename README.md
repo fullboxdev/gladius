@@ -46,8 +46,9 @@ Effective use of social media platforms will build trust and gain potential inve
 5) Instagram
 6) Pinterest
 7) Telegram
-8) Participate in Q&A channels
-9) Participate in forums.
+8) Discord
+9) Participate in Q&A channels
+10)Participate in forums.
 
 Bounty campaign:
 
@@ -73,6 +74,7 @@ Place your ICO token release updates on top ICO calendar sites. This will help t
 6) ICO-List.com
 7) Tokenmarket.net
 8) TokenSaleCalendar.com
+ 
 
 ICO Listing:
 
