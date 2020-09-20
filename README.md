@@ -48,7 +48,7 @@ Effective use of social media platforms will build trust and gain potential inve
 7) Telegram
 8) Discord
 9) Participate in Q&A channels
-10)Participate in forums.
+& forums.
 
 Bounty campaign:
 
